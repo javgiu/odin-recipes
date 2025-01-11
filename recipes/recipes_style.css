@@ -1,0 +1,23 @@
+* {
+    background-color: #CCAF60;
+    color: white;font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p, 
+ul, 
+ol {
+    font-size: 20px;
+}
+
+#link {
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+}
